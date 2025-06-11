@@ -1,5 +1,10 @@
 #!/bin/bash  
 
+<<help
+Umaga.. is here!!!!
+
+help
+
 echo "My name is Ashu Khanna.. I am not here to dance.. I want to work."
 echo "I am 23"
 echo "I am single"
