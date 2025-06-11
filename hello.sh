@@ -1,7 +1,7 @@
 #!/bin/bash  
 
 <<help
-Umaga.. is here!!!!
+Umaga.. is here and he will come back...!!
 
 help
 
