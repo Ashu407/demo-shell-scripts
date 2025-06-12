@@ -1,7 +1,12 @@
 #!/bin/bash  
 
 <<help
+<<<<<<< HEAD
 Umaga.. is here!!!!
+=======
+Umaga.. is here and he will come back...!!
+ No choice...
+>>>>>>> e61183f328991fbb762c62ac8bb9dc3a66491097
 
 help
 
